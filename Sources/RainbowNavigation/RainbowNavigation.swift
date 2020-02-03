@@ -6,6 +6,8 @@
 //
 //
 
+import UIKit
+
 open class RainbowNavigation: NSObject, UINavigationControllerDelegate {
     
     fileprivate weak var navigationController:UINavigationController?

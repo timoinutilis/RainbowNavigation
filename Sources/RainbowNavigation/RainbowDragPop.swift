@@ -6,6 +6,8 @@
 //
 //
 
+import UIKit
+
 class RainbowDragPop: UIPercentDrivenInteractiveTransition {
     
     var interacting = false

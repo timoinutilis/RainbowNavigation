@@ -6,6 +6,8 @@
 //
 //
 
+import UIKit
+
 class RainbowPopAnimator: NSObject, UIViewControllerAnimatedTransitioning {
     var animating = false
     
